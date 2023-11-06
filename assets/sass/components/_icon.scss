@@ -17,12 +17,14 @@
 
 		&.solid {
 			&:before {
+				margin-top: 0.5em;
 				font-weight: 900;
 			}
 		}
 
 		&.brands {
 			&:before {
+				margin-top: 0.5em;
 				font-family: 'Font Awesome 5 Brands';
 			}
 		}
