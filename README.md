@@ -25,10 +25,9 @@ for Credensos spent working on the project.
 
 
 ### Work Log
-Nov 5th - Project Bootstrap - ©12
-
-Nov 7th - Main Page v1 - ©12
-Nov 7th - Project Roadmap - ©6
-Nov 7th - About Page - ©6
+- Nov 5th - Project Bootstrap - ©12
+- Nov 7th - Main Page v1 - ©12
+- Nov 7th - Project Roadmap - ©6
+- Nov 7th - About Page - ©6
 
 
