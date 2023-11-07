@@ -2331,24 +2331,6 @@ table.alt tfoot {
   width: 100%;
   z-index: 910;
 }
-#header.alt {
-  left: 0;
-  position: absolute;
-  top: 0;
-}
-#header.alt:after {
-  background: none;
-}
-#header:after {
-  background: #1c1c1c;
-  content: "";
-  height: 5.5rem;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
-  z-index: 910;
-}
 #header #logo {
   background: #8aa659;
   margin: 0 2rem;
@@ -2357,7 +2339,7 @@ table.alt tfoot {
   text-align: center;
   text-decoration: none;
   z-index: 911;
-  max-width: 50vw;
+  max-width: 30vw;
 }
 #header #logo:before {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' preserveAspectRatio='none' viewBox='0 0 100 100'%3E%3Cpolygon points='0,0 100,0 50,100' fill='%238aa659' /%3E%3C/svg%3E");
@@ -2379,6 +2361,27 @@ table.alt tfoot {
   letter-spacing: 0.15rem;
   line-height: 2.5rem;
   text-decoration: none;
+}
+#header.alt {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+#header.alt:after {
+  background: none;
+}
+#header.alt #logo {
+  max-width: 50vw;
+}
+#header:after {
+  background: #1c1c1c;
+  content: "";
+  height: 5.5rem;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 910;
 }
 #header a[href="#navPanel"] {
   text-decoration: none;
@@ -2537,7 +2540,7 @@ table.alt tfoot {
     font-size: 2rem;
     letter-spacing: 0.15rem;
     line-height: 2rem;
-    padding: 1rem;
+    padding: 0;
   }
 }
 
@@ -2643,6 +2646,7 @@ table.alt tfoot {
 #navPanel .close:before {
   content: "\f00d";
   font-size: 1.25rem;
+  padding-top: 0.75em;
 }
 #navPanel .close:hover {
   color: #fff;
