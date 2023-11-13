@@ -11,13 +11,13 @@ for Credensos spent working on the project.
 ### To Do List
 - [ ] Static Site - End of December
     - [x] Main Page
-    - [ ] About
+    - [x] About
         - [x] Landing
-        - [ ] Massage
-        - [ ] Team
-        - [ ] Privacy
-        - [ ] Cancellation
-    - [ ] Booking
+        - [x] Massage
+        - [x] Team
+        - [x] Privacy
+        - [x] Cancellation
+    - [x] Booking
     - [ ] Publish on oliver-rmt.com
 
 - [ ] Booking - ETA Spring 2024
@@ -31,5 +31,5 @@ for Credensos spent working on the project.
 - Nov 7th - Main Page v1 - ©12
 - Nov 7th - Project Roadmap - ©6
 - Nov 7th - About Page - ©6
-
+- Nov 13th - About Massage - ©6
 
