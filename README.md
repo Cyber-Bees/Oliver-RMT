@@ -32,4 +32,7 @@ for Credensos spent working on the project.
 - Nov 7th - Project Roadmap - ©6
 - Nov 7th - About Page - ©6
 - Nov 13th - About Massage - ©6
+- Nov 13th - About, Privacy, Cancellation, Booking - ©24
+
+Total to date: ©66
 
