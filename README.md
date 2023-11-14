@@ -18,7 +18,10 @@ for Credensos spent working on the project.
         - [x] Privacy
         - [x] Cancellation
     - [x] Booking
-    - [ ] Publish on oliver-rmt.com
+    - [x] Requested edits
+
+
+- [ ] Publish on oliver-rmt.com
 
 - [ ] Booking - ETA Spring 2024
 
@@ -33,6 +36,7 @@ for Credensos spent working on the project.
 - Nov 7th - About Page - ©6
 - Nov 13th - About Massage - ©6
 - Nov 13th - About, Privacy, Cancellation, Booking - ©24
+- Nov 14th - Requested edits - ©11
 
-Total to date: ©66
+Total to date: ©77
 

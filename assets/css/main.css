@@ -1,5 +1,23 @@
 @import 'fontawesome-all.min.css';
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300,700");
+@font-face {
+  font-family: "Baskerville Libre";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../webfonts/LibreBaskerville-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Baskerville Libre";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../webfonts/LibreBaskerville-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Baskerville Libre";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../webfonts/LibreBaskerville-Italic.ttf") format("truetype");
+}
 /*
 	Wide Angle by Pixelarity
 	pixelarity.com | hello@pixelarity.com
@@ -137,7 +155,7 @@ body {
 }
 
 body, input, select, textarea {
-  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-family: "Baskerville Libre", Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.65;
@@ -175,9 +193,9 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #fff;
-  font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+  font-family: "Baskerville Libre", Arial, Helvetica, sans-serif;
   font-weight: 700;
-  letter-spacing: 0.15rem;
+  letter-spacing: 0;
   line-height: 1.5;
   margin: 0 0 1.5rem 0;
   text-transform: uppercase;
@@ -1433,7 +1451,7 @@ button,
   color: #fff !important;
   cursor: pointer;
   display: inline-block;
-  font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+  font-family: "Baskerville Libre", Arial, Helvetica, sans-serif;
   font-weight: 700;
   height: 3.25rem;
   letter-spacing: 0.15rem;
@@ -1974,7 +1992,7 @@ ul.icons li .icon {
   border-radius: 100%;
   border: 2px solid #fff;
   display: block;
-  font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+  font-family: "Baskerville Libre", Arial, Helvetica, sans-serif;
   font-size: 1.5rem;
   font-weight: 700;
   height: 3.25rem;
@@ -2161,7 +2179,7 @@ table.alt tfoot {
   border: 2px solid #fff;
   color: #fff;
   display: block;
-  font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+  font-family: "Baskerville Libre", Arial, Helvetica, sans-serif;
   font-size: 2rem;
   font-weight: 700;
   height: 4.5rem;
@@ -2356,7 +2374,7 @@ table.alt tfoot {
 #header #logo a {
   color: #fff;
   display: block;
-  font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+  font-family: "Baskerville Libre", Arial, Helvetica, sans-serif;
   font-size: 2.25rem;
   letter-spacing: 0.15rem;
   line-height: 2.5rem;
@@ -2449,7 +2467,7 @@ table.alt tfoot {
 #header > nav > ul li a {
   color: inherit;
   display: inline-block;
-  font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+  font-family: "Baskerville Libre", Arial, Helvetica, sans-serif;
   font-weight: 700;
   letter-spacing: 0.15rem;
   padding: 0 2rem;
@@ -2485,7 +2503,7 @@ table.alt tfoot {
   border-top: solid 1px rgba(255, 255, 255, 0.25);
   color: rgba(255, 255, 255, 0.7);
   display: block;
-  font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+  font-family: "Baskerville Libre", Arial, Helvetica, sans-serif;
   font-weight: 700;
   letter-spacing: 0.15rem;
   padding: 1rem;
@@ -2750,7 +2768,7 @@ table.alt tfoot {
 }
 #banner > article p {
   color: #fff;
-  font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+  font-family: "Baskerville Libre", Arial, Helvetica, sans-serif;
   font-size: 1.25rem;
   font-weight: 700;
   letter-spacing: 0.15rem;
