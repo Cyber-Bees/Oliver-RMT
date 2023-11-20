@@ -38,6 +38,7 @@ for Credensos spent working on the project.
 - Nov 13th - About, Privacy, Cancellation, Booking - ©24
 - Nov 14th - Requested edits - ©11
 - Nov 20th - About Page writing - ©6
+- [Invoice for ©83](https://credenso.cafe/invoice.html?total=83&member=Zen)
 
 Total to date: ©83
 
