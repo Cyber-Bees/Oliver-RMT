@@ -9,7 +9,7 @@ a to-do list for the project, and a tracking sheet
 for Credensos spent working on the project.
 
 ### To Do List
-- [ ] Static Site - End of December
+- [x] Static Site - End of December
     - [x] Main Page
     - [x] About
         - [x] Landing
@@ -37,6 +37,7 @@ for Credensos spent working on the project.
 - Nov 13th - About Massage - ©6
 - Nov 13th - About, Privacy, Cancellation, Booking - ©24
 - Nov 14th - Requested edits - ©11
+- Nov 20th - About Page writing - ©6
 
-Total to date: ©77
+Total to date: ©83
 
